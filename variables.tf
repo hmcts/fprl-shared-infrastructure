@@ -1,5 +1,5 @@
 variable "product" {
-  default = "family-private-law"
+  default = "fprl"
 }
 
 variable "location" {

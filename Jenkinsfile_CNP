@@ -2,4 +2,4 @@
 //noinspection GroovyUnusedAssignment
 @Library("Infrastructure") _
 
-withInfraPipeline('family-private-law') {}
+withInfraPipeline('fprl') {}

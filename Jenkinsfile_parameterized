@@ -9,4 +9,4 @@ properties([
 		])
 ])
 
-sharedInfrastructurePipeline('family-private-law', params.ENVIRONMENT, 'sandbox')
+sharedInfrastructurePipeline('fprl', params.ENVIRONMENT, 'sandbox')
